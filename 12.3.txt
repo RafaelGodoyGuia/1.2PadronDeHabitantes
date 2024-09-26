@@ -1,0 +1,1 @@
+No es necesario hacer nada para que siga compilando porque java detecta que son constructores distintos por el número de parámetros por lo que no hay conflictos entre constructures.

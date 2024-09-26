@@ -1,0 +1,2 @@
+Significa array de cadenas de texto, String es el tipo de dato para representar texto y los corchetes indican el array.
+Es una variable que puede contener varias cadenas de texto.
