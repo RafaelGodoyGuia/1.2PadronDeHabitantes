@@ -1,10 +1,10 @@
+package dominio;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.io.FileWriter;
-
 
 
 public class OficinaPadron {

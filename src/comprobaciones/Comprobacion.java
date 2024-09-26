@@ -1,3 +1,6 @@
+package comprobaciones;
+
+import dominio.*;
 import java.util.ArrayList;
 
 public class Comprobacion

@@ -1,3 +1,5 @@
+package dominio;
+
 public class Habitantes {
     private String nombre;
     private String apellido1;
