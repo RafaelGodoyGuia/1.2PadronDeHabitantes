@@ -39,4 +39,8 @@ public class Habitantes {
     public String getApellido2 () {
         return (apellido2);
     }
+
+    public String toString () {
+	return ("Nombre: " + nombre + " " + apellido1 + " " + apellido2);
+    }
 }
